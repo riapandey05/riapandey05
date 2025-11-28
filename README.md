@@ -136,9 +136,10 @@
 
 <div align="center">
 
- ![GitHub Snake](https://raw.githubusercontent.com/riapandey05/riapandey05/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake](https://raw.githubusercontent.com/riapandey05/riapandey05/output/github-contribution-grid-snake.svg)
 
 </div>
+
 
 </div>
 
